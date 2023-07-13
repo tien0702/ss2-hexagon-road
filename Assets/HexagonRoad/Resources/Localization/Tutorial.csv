@@ -1,0 +1,21 @@
+Key,English,Vietnamese
+TT.TLeftKey,Turn Left,Xoay Trái
+TT.TLeftValue,Mouse Up,Lăn Chuột Lên
+TT.TRightKey,Turn Right,Xoay Phải
+TT.TRightValue,Mouse Down,Lăn Chuột Xuống
+TT.SelectKey,Select,Chọn
+TT.SelectValue,Mouse Left,Chuột Trái
+TT.ChangeKey,Change Face,Đổi Khối
+TT.ChangValue,Mouse Right,Chuột Phải
+TT.ZoomInKey,Zoom In,Phóng To
+TT.ZoomInValue,Arrow Up,Mũi Tên Lên
+TT.ZoomOutKey,Zoom Out,Thu Nhỏ
+TT.ZoomOutValue,Arrow Down,Mũi Tên Xuống
+TT.Key,"Scroll Up / Down to turn Face
+Mouse Left to place Face
+Mouse Right to change Face
+Arrow Up / Down to ZoomIn, ZoomOut","Lăn chuột để xoay
+Chuột trái để chọn
+Chuột phải để đổi
+Mũi tên lên và xuống để phóng to hoặc thu nhỏ"
+TT.ShowT,Show Tutorial,Hiển thị hướng dẫn
